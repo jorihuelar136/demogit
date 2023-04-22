@@ -7,6 +7,6 @@ phpinfo();
 // phpinfo(8) yields identical results.
 phpinfo(INFO_MODULES);
 
-echo "prueba1"
+echo "prueba12"
 
 ?>
